@@ -1,0 +1,2 @@
+rootProject.name = 'monorepo-hotel'
+include 'services:users', 'services:hotels'
